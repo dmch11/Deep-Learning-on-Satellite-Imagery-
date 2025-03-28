@@ -4,10 +4,17 @@ Comparative study of a custom CNN with ResNet-18 &amp; ResNet-50  for Tree Prese
 
 This repository features three deep learning models—Custom CNN, ResNet-18, and ResNet-50—to compare accuracy, inference time, and computational cost. 
 The primary goal is to identify the optimal model for real-time and large-scale tree classification, particularly in the context of developing areas.
-Objectives
 
-Develop and train three models (Custom CNN, ResNet-18, and ResNet-50) for tree presence classification.
 
-Compare the models based on accuracy, inference time, and computational cost.
+# Prerequisites
+To run the code, install the necessary libraries:
 
-Demonstrate the potential of AI-driven green space mapping in promoting sustainability and environmental conservation.
+## Libraries Used
+- **torch**: Deep learning library to build and train the model.
+- **torchvision**: Provides pre-trained models and data transformations.
+- **numpy**: Numerical operations and array manipulations.
+- **matplotlib**: Plotting training and validation loss/accuracy.
+- **pandas**: Data handling and analysis .
+- **scikit-learn**: Metrics and performance evaluation.
+
+
