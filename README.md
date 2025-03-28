@@ -3,8 +3,7 @@ Comparative study of a custom CNN with ResNet-18 &amp; ResNet-50  for Tree Prese
 
 
 This repository features three deep learning models—Custom CNN, ResNet-18, and ResNet-50—to compare accuracy, inference time, and computational cost. 
-The primary goal is to identify the optimal model for real-time and large-scale tree classification, particularly in the context of developing areas such as the Democratic Republic of Congo (DRC).
-
+The primary goal is to identify the optimal model for real-time and large-scale tree classification, particularly in the context of developing areas.
 Objectives
 
 Develop and train three models (Custom CNN, ResNet-18, and ResNet-50) for tree presence classification.
