@@ -1,0 +1,89 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+env/
+venv/
+.venv/
+
+# Python-specific settings and cache
+*.pyc
+*.pyd
+*.pyo
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Log files and outputs
+*.log
+*.out
+*.err
+
+# Hidden files and system-specific files
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+*.temp
+*.orig
+*.log
+
+# Model checkpoints and weights
+*.h5
+*.ckpt
+*.pth
+*.pt
+
+# Dataset archives
+*.zip
+*.tar.gz
+*.rar
+
+# Output and experiment files
+results/
+runs/  # TensorBoard log directory
+models/
+checkpoints/
+outputs/
+
+# Config and cache files
+*.yaml
+*.yml
+*.toml
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Environment variables and credentials
+.env
+.env.*
+
+# PyTorch Lightning logs
+lightning_logs/
+
+# Colab and Jupyter Notebook temporary files
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+*.checkpoint
+*.ipynb_checkpoints/
+
+# Temporary files and folders created by training scripts
+*.npy
+*.npz
+*.hdf5
